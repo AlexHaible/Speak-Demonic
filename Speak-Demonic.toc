@@ -1,8 +1,8 @@
-## Interface: 100107
+## Interface: 100105
 ## Title: Speak Demonic
 ## Notes: Automatically switches your language to Demonic while inside The Fel Hammer
 ## Author: Sauravisus
-## Version: 1.3.11
+## Version: 1.3.12
 ## X-Curse-Project-ID: 267457
 
 main.lua
