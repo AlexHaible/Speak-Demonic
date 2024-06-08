@@ -1,8 +1,17 @@
-## Interface: 100207
+## Interface: 100207, 110000
 ## Title: Speak Demonic
 ## Notes: Automatically switches your language to Demonic while inside The Fel Hammer
-## Author: Sauravisus
-## Version: 1.3.15
+## Author: Sauravisus (Xerastrasza - Magtheridon EU, Horde)
+## Version: @project-version@
+## X-Date: @project-date-iso@
 ## X-Curse-Project-ID: 267457
 
+#@alpha@
+## OptionalDeps: BugSack, BugGrabber
+#@end-alpha@
+
 main.lua
+
+#@debug@
+## Version: DEV
+#@end-debug@
