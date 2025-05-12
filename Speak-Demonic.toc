@@ -1,4 +1,4 @@
-## Interface: 110105, 110100
+## Interface: 110107, 110105, 110100
 
 ## Title: Speak Demonic
 ## Notes: Automatically switches your language to Demonic while inside The Fel Hammer
