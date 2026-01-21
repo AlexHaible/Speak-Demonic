@@ -7,8 +7,9 @@ local LANGUAGE_IDS = {
 }
 
 local DEFAULT_LANG_BY_RACE = {
-    NightElf = "Common",
     BloodElf = "Orcish",
+    VoidElf  = "Common",
+    NightElf = "Common",
 }
 
 local DEMONIC_ZONE_ID = 720  -- The map ID for the demonic-speaking zone
